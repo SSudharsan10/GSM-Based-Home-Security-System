@@ -21,7 +21,7 @@ Detect intruders through the use of PIR sensors.
 Identify gas leaks using the MQ-6 Gas Leakage Sensor.
 Send immediate SMS alerts to homeowners through the GSM modem in case of any detected anomalies.
 Enable homeowners to take appropriate actions in response to alerts, such as contacting authorities or addressing the situation remotely.
-Future Improvements:
+
 
 
 
